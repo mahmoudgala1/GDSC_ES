@@ -1,0 +1,26 @@
+{
+  "files.associations": {
+    "gpio_interface.h": "c",
+    "led_config.h": "c",
+    "buz_config.h": "c",
+    "led_private.h": "c",
+    "buz_private.h": "c",
+    "led_interface.h": "c",
+    "buz_interface.h": "c",
+    "ssd_private.h": "c",
+    "clcd_config.h": "c",
+    "kpd_interface.h": "c",
+    "bit_math.h": "c",
+    "gie_interface.h": "c",
+    "std_types.h": "c",
+    "dcmotor_interface.h": "c",
+    "clcd_interface.h": "c",
+    "exti_interface.h": "c",
+    "adc_interface.h": "c",
+    "adc_config.h": "c",
+    "lm35_interface.h": "c",
+    "clcd_private.h": "c",
+    "kpd_config.h": "c"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+}

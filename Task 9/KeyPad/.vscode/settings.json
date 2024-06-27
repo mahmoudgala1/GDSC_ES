@@ -1,0 +1,15 @@
+{
+  "files.associations": {
+    "gpio_interface.h": "c",
+    "led_config.h": "c",
+    "buz_config.h": "c",
+    "led_private.h": "c",
+    "buz_private.h": "c",
+    "led_interface.h": "c",
+    "buz_interface.h": "c",
+    "ssd_private.h": "c",
+    "clcd_config.h": "c",
+    "kpd_interface.h": "c"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+}
